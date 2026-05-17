@@ -7,10 +7,11 @@
 
 /* =============================================
    VARIABEL WARNA (Design System)
-   Primary  : #2563EB (biru utama)
-   Secondary: #647488 (abu-abu biru)
-   Tertiary : #8C4B0D (coklat-oranye)
-   Neutral  : #757681 (abu-abu netral)
+   Primary     : #0000FF (biru utama)
+   Primary Dark: #000080 (biru gelap)
+   Secondary   : #647488 (abu-abu biru)
+   Tertiary    : #8C4B0D (coklat-oranye)
+   Neutral     : #757681 (abu-abu netral)
 ============================================= */
 :root {
     --primary:        #0000FF;

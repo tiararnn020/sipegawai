@@ -82,9 +82,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $data['pendidikan_terakhir'] = $_POST['pendidikan_terakhir'];
     $data['usia']                = $_POST['usia'];
     $data['jabatan']             = $_POST['jabatan'];
-    $tanggal_bergabung           = $_POST['tanggal_bergabung'];
+    $data ['tanggal_bergabung']  = $_POST['tanggal_bergabung'];
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="id">
 <head>
