@@ -1,0 +1,12 @@
+# Folder library Composer - tidak perlu di-push
+vendor/
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# File log
+*.log
+
+# File environment lokal
+.env
